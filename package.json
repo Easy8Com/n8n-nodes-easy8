@@ -6,6 +6,9 @@
     "n8n-community-node-package"
   ],
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "https://easy8.com",
   "author": {
     "name": "Martin Novák",
