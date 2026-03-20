@@ -1,6 +1,6 @@
 {
   "name": "@easy8/n8n-nodes-easy8",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "n8n integration with Easy8",
   "keywords": [
     "n8n-community-node-package"
